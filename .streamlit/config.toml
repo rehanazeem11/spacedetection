@@ -1,4 +1,5 @@
-primaryColor = "#00E5FF"          # Cyan accent (buttons, widgets)
-backgroundColor = "#0B0F29"       # Deep space background
-secondaryBackgroundColor = "#1A103D"  # Cards / sidebars
-textColor = "#C8C8D8"             # Light text
+[theme]
+primaryColor="#00e5ff"
+backgroundColor="#0b0f29"
+secondaryBackgroundColor="#c8c8d8"
+textColor="#ffffff"
